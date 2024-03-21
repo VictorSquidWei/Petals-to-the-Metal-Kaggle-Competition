@@ -48,7 +48,7 @@ The custom convolutional neural network (CNN) architecture developed for the "Pe
 
 * Visualization
 For a visual representation of the model architecture, please see the diagram below:
-![Model Visualization](/assets/images/san-juan-mountains.jpg "San Juan Mountains") 
+![Model Visualization](model_visualization.png) 
 
 
 
