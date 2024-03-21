@@ -46,6 +46,12 @@ The custom convolutional neural network (CNN) architecture developed for the "Pe
 
 * **Output Layer:** The final layer outputs the class probabilities for each of the 104 flower types using a softmax activation function.
 
+* Visualization
+For a visual representation of the model architecture, please see the diagram below:
+![Model Visualization](/assets/images/san-juan-mountains.jpg "San Juan Mountains") 
+
+
+
 ### **Results**
 
 Through systematic experimentation and optimization, the model achieved a notable improvement in classification accuracy on the validation set, with a final competition score of 0.318, an increase from the initial score of 0.29199. This improvement underscores the effectiveness of the applied techniques in enhancing model performance.
