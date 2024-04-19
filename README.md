@@ -70,3 +70,8 @@ Technologies Used
 ### **Conclusion**
 
 This project exemplifies the practical application of machine learning techniques in a real-world challenge, from data preprocessing and model building to optimization and evaluation. The experience gained in working with TPUs, managing large datasets, and refining deep learning models is invaluable for future projects in the field of AI and machine learning.
+
+### **Team Members**
+Victor Wei
+Paul Zhang
+Adarsh Chithrala
